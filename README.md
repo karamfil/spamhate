@@ -1,5 +1,4 @@
 # SpamHate
-========
 
 Hate all the spammers.
 
