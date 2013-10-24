@@ -5,7 +5,7 @@ Hate all the spammers.
 This is a set of python scripts to do various spam fight related stuff.
 
 ## Rules
-1. Hate all spammer
+1. Hate all spammers
 1. Refer to rule number 1
 
 
